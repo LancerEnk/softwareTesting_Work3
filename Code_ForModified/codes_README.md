@@ -6,4 +6,4 @@
 * 完成了Task1的python代码纠正并更新Word；  
 * 完成了Task2的所有python代码纠正并更新Word；  
 ### 10.28进度  
-* 完成了Task3~Task8的所有python代码纠正并更新Word;
+* 完成了Task3~Task9的所有python代码纠正并更新Word;
